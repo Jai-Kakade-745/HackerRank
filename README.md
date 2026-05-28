@@ -1,0 +1,2 @@
+# HackerRank
+Solving Logical Questions
